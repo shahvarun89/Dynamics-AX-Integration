@@ -76,6 +76,7 @@
     <Compile Include="ServiceGroup1Tests.cs" />
     <Compile Include="SoapTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TLSTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AuthenticationUtility\AuthenticationUtility.csproj">
